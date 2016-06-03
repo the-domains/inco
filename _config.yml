@@ -1,0 +1,14 @@
+layout_spectrum: 0.7688172
+color:
+  saturation: 0.3888889
+  brandStrength: 0.557265
+  lightness: 0.4946237
+  rhythmicContrast: 0.7616488
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+typography_spectrum: 0.4229391
+name: Inco
